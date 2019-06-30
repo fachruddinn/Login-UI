@@ -10,10 +10,10 @@ Reset button is to clear the username and password
 
 <div class="row">
   <div class="column">
-    <img src="Screenshot_1561882486" height="700">
+    <img src="screenshot/Screenshot_1561878873_Resize.png" height="700">
   </div>
   <div class="column">
-    <img src="Screenshot_1561878873_Resize.png" height="700">
+    <img src="screenshot/Screenshot_1561878873_Resize.png" height="700">
   </div>
 </div>
 
