@@ -5,7 +5,7 @@ Simple UI Login Form with Kotlin
 This Form can be used to check the username input
 Also can be check the password
 
-![](screenshot/Screenshot_1561878873.png)
+![](screenshot/Screenshot_1561878873_Resize.png)
 
 Reference:
 
