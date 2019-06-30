@@ -5,7 +5,7 @@ Simple UI Login Android Form with Kotlin
 This Form can be used to check the username input
 Also can be check the password
 
-<a href="url"><img src="screenshot/Screenshot_1561878873_Resize.png" align="left" height="700" ></a>
+<a href="url"><img src="screenshot/Screenshot_1561878873_Resize.png" height="700" ></a>
 <p>
 
 Reference:
